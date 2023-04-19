@@ -1,3 +1,6 @@
 ::1 - - [19/Apr/2023:02:30:50 +0000] "GET /todolist/whs/create HTTP/1.1" 200 64 "-" "PostmanRuntime/7.32.2"
 ::1 - - [19/Apr/2023:02:30:57 +0000] "GET /todolist/whs/ HTTP/1.1" 200 378 "-" "PostmanRuntime/7.32.2"
 ::1 - - [19/Apr/2023:02:32:52 +0000] "POST /todolist/whs/ HTTP/1.1" 200 137 "-" "PostmanRuntime/7.32.2"
+::1 - - [19/Apr/2023:05:16:44 +0000] "GET / HTTP/1.1" 500 1102 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+::1 - - [19/Apr/2023:05:24:57 +0000] "GET / HTTP/1.1" 500 1102 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+::1 - - [19/Apr/2023:05:24:58 +0000] "GET / HTTP/1.1" 500 1102 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"

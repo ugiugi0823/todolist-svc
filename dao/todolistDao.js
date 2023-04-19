@@ -81,10 +81,7 @@ exports.deleteTodo = async ({ owner, id }) => {
     return { status: "fail", message: "삭제 실패 : " + ex };
   }
 };
-// sdhkjfhsdkfhsdjkfhksj
-//ㅇㄴㅇㄹㅇㄴㄹㅇㄴㄹㄴㅇ
-// klkjkkjhkj
-// ㄹㄴㅇ링너ㅣㄹㄴ어ㅣㅏ런이ㅏㄹㄴㅇ
+
 
 exports.toggleCompleted = async ({ owner, id }) => {
   try {
